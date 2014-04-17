@@ -7,6 +7,7 @@ sdjfkjskdf\
 Test123333
 MY TEST 123 askdjkj
 function test(){
+console.log("1233");
 	alert('test');
 }
 
