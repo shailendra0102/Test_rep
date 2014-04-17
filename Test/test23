@@ -3,8 +3,10 @@ Tetsttst
 sahdhd
 sdjfkjskdf\
 
-<<<<<<< Updated upstream
+
 Test123333
-=======
 MY TEST 123 askdjkj
->>>>>>> Stashed changes
+function test(){
+	alert('test');
+}
+
