@@ -1,0 +1,7 @@
+function test(){
+Console.log("1233teety");
+}
+
+function test2(){
+alert.log("1233teety");
+}
